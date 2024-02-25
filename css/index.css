@@ -509,7 +509,7 @@ section[title="How Lesson-Work"] p {
             .black{
                 width: 220vw;
                 height: 222vh;
-               
+               z-index: 3;
            
             }
 
